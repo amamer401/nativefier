@@ -7,13 +7,13 @@
 
 ![Dock](screenshots/dock.png)
 
-You want to make a native wrapper for WhatsApp Web (or any web page).
+Simple Rohoboth church website.
 
 ```bash
-nativefier web.whatsapp.com
+http://www.rohobothcharlotte.org
 ```
 
-![Walkthrough](screenshots/walkthrough.gif)
+![Walkthrough]("https://github.com/amamer401/church-website2/blob/master/images/home%20background.png?raw=true")
 
 You're done.
 
